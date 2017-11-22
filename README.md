@@ -1,5 +1,5 @@
-# Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+# SPA for logging users into Business Intellinence Reporting system using Auth0
+
 
 ### ++++++++++++++++++++++++++
 Requires installing additional packages:
